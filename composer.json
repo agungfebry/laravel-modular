@@ -2,6 +2,8 @@
   "name": "xbrn/laravel-modular",
   "description": "Laravel package for modular architecture with clean code and services support",
   "type": "library",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "Xbrn\\LaravelModular\\": "src/"

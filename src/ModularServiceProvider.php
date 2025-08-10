@@ -1,6 +1,6 @@
 <?php
 
-namespace Xyz\LaravelModular;
+namespace Xbrn\LaravelModular;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Xyz\LaravelModular\Console;
+namespace Xbrn\LaravelModular\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
