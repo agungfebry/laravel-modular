@@ -1,16 +1,16 @@
 {
-  "name": "xyz/laravel-modular",
+  "name": "xbrn/laravel-modular",
   "description": "Laravel package for modular architecture with clean code and services support",
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Xyz\\LaravelModular\\": "src/"
+      "Xbrn\\LaravelModular\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Xyz\\LaravelModular\\ModularServiceProvider"
+        "Xbrn\\LaravelModular\\ModularServiceProvider"
       ]
     }
   },
