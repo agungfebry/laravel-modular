@@ -1,0 +1,21 @@
+{
+  "name": "xyz/laravel-modular",
+  "description": "Laravel package for modular architecture with clean code and services support",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Xyz\\LaravelModular\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Xyz\\LaravelModular\\ModularServiceProvider"
+      ]
+    }
+  },
+  "require": {
+    "php": "^8.2",
+    "illuminate/support": "^12.0"
+  }
+}
